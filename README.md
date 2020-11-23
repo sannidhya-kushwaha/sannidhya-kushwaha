@@ -10,6 +10,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Dino_non-birthday_version](https://user-images.githubusercontent.com/73152930/99987734-d4b7d200-2dd6-11eb-9a06-4242a2fccb64.gif)
+
 ##### Gist About me
 
 - 🎤 I am a passonate Product designer and Frontend developer
