@@ -1,5 +1,7 @@
 ### Hi, I'm Sannidhya Kushwaha! 👋
 
+[![HitCount](http://hits.dwyl.com/sannidhya-kushwaha/sannidhya-kushwaha.svg)](http://hits.dwyl.com/sannidhya-kushwaha/sannidhya-kushwaha)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Dart.
 - 👯 I’m looking to collaborate on ...
