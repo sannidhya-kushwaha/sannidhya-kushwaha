@@ -1,4 +1,4 @@
-### Hola, I'm Sannidhya Kushwaha! 👋
+### Hi, I'm Sannidhya Kushwaha! 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Dart.
