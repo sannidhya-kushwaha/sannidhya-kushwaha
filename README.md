@@ -20,3 +20,18 @@
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 
 <img src="https://github-readme-stats.vercel.app/api?username=sannidhya-kushwaha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+![alt text][1]
+![alt text][2]
+![alt text][3]
+![alt text][4]
+![alt text][5]
+![alt text][6]
+
+
+[1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6]: http://i.imgur.com/0o48UoR.png 
