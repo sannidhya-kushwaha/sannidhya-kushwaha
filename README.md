@@ -7,20 +7,27 @@
 - 👯 I’m looking to collaborate on Web & App Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me anything about Flutter
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="https://www.instagram.com/sannidhya_kushwaha" target="_blank">![instagram](https://user-images.githubusercontent.com/73152930/100047601-dade9a80-2e38-11eb-81f7-f5485201dcf7.png)</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ![Dino_non-birthday_version](https://user-images.githubusercontent.com/73152930/99987734-d4b7d200-2dd6-11eb-9a06-4242a2fccb64.gif)
 
-##### Gist About me
+##### Gist About Me
 
 - 🎤 I am a passonate Web & App developer.
 - 🛸 Learning everyday, currently learning to MERN stack, Dart etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 
+### My Github Stats
+
+<span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannidhya-kushwaha&layout=compact" height="185">
+</span>
+
 <img src="https://github-readme-stats.vercel.app/api?username=sannidhya-kushwaha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannidhya-kushwaha&layout=compact">
+
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
