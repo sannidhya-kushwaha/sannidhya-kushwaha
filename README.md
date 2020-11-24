@@ -24,10 +24,15 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
-<a href="abcd" target="_blank">![facebook](https://user-images.githubusercontent.com/73152930/100047595-d6b27d00-2e38-11eb-84a5-176135fb05df.png")
 
-<img src="![twitter](https://user-images.githubusercontent.com/73152930/100047596-d9ad6d80-2e38-11eb-91d4-4b54d2319bd5.png)">
+<a href="facebook.com" target="_blank"> ![facebook](https://user-images.githubusercontent.com/73152930/100048684-69541b80-2e3b-11eb-85c2-2bf476190f67.png)
+    </a>
+  
+ <a href="twitter.com" target="_blank"> ![twitter](https://user-images.githubusercontent.com/73152930/100048689-6bb67580-2e3b-11eb-9621-d438a8090a46.png)
+  </a>
 
-<a target="_blank" href="https://www.instagram.com/sannidhya_kushwaha">![instagram](https://user-images.githubusercontent.com/73152930/100047601-dade9a80-2e38-11eb-81f7-f5485201dcf7.png)
-
-<img src="![linkedin](https://user-images.githubusercontent.com/73152930/100047603-dca85e00-2e38-11eb-959a-69da505c532f.png)">
+<a href="https://www.instagram.com/sannidhya_kushwaha" target="_blank">![instagram](https://user-images.githubusercontent.com/73152930/100047601-dade9a80-2e38-11eb-81f7-f5485201dcf7.png)
+    </a>
+  
+ <a href="https://www.instagram.com/sannidhya_kushwaha" target="_blank">![linkedin](https://user-images.githubusercontent.com/73152930/100047603-dca85e00-2e38-11eb-959a-69da505c532f.png)
+  </a>
