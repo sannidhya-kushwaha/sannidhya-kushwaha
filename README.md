@@ -9,7 +9,7 @@
 
 ![Dino_non-birthday_version](https://user-images.githubusercontent.com/73152930/99987734-d4b7d200-2dd6-11eb-9a06-4242a2fccb64.gif)
 
-#### Gist About Me :octocat:
+### Gist About Me :octocat:
 
 - 🎤 I am a passonate Web & App developer.
 - 🛸 Learning everyday, currently learning MERN stack, Dart etc ...
