@@ -11,7 +11,7 @@
 
 ### Gist About Me :octocat:
 
-- 🎤 I am a passonate Web & App developer.
+- 🎤 I'm a passonate Web & App developer.
 - 🛸 Learning everyday, currently learning MERN stack, Dart etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 
