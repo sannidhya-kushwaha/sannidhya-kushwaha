@@ -7,18 +7,9 @@
 - 👯 I’m looking to collaborate on Web & App Projects
 - 💬 Ask me anything about Flutter
 
-### Get in touch
-<a href="https://twitter.com/__Sannidhya__" target="_blank"> ![twitter](https://user-images.githubusercontent.com/73152930/100048689-6bb67580-2e3b-11eb-9621-d438a8090a46.png)</a><a href="https://www.instagram.com/sannidhya_kushwaha" target="_blank">![instagram](https://user-images.githubusercontent.com/73152930/100047601-dade9a80-2e38-11eb-81f7-f5485201dcf7.png)</a><a href="https://www.facebook.com/sannidhya.kushwaha/100004982791671" target="_blank">![facebook](https://user-images.githubusercontent.com/73152930/100048684-69541b80-2e3b-11eb-85c2-2bf476190f67.png)</a><a href="https://https://www.linkedin.com/in/sannidhya-kushwaha" target="_blank">![linkedin](https://user-images.githubusercontent.com/73152930/100047603-dca85e00-2e38-11eb-959a-69da505c532f.png)</a>
-
-
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ![Dino_non-birthday_version](https://user-images.githubusercontent.com/73152930/99987734-d4b7d200-2dd6-11eb-9a06-4242a2fccb64.gif)
 
-##### Gist About Me
+#### Gist About Me
 
 - 🎤 I am a passonate Web & App developer.
 - 🛸 Learning everyday, currently learning to MERN stack, Dart etc ...
@@ -28,6 +19,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sannidhya-kushwaha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannidhya-kushwaha&layout=compact" height="185">
+
+
+### Get in touch 
+
+<a href="https://twitter.com/__Sannidhya__" target="_blank"> ![twitter](https://user-images.githubusercontent.com/73152930/100048689-6bb67580-2e3b-11eb-9621-d438a8090a46.png)</a><a href="https://www.instagram.com/sannidhya_kushwaha" target="_blank">![instagram](https://user-images.githubusercontent.com/73152930/100047601-dade9a80-2e38-11eb-81f7-f5485201dcf7.png)</a><a href="https://www.facebook.com/sannidhya.kushwaha/100004982791671" target="_blank">![facebook](https://user-images.githubusercontent.com/73152930/100048684-69541b80-2e3b-11eb-85c2-2bf476190f67.png)</a><a href="https://https://www.linkedin.com/in/sannidhya-kushwaha" target="_blank">![linkedin](https://user-images.githubusercontent.com/73152930/100047603-dca85e00-2e38-11eb-959a-69da505c532f.png)</a>
+
 
 
 
