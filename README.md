@@ -25,6 +25,8 @@
 
 <!-- display the social media buttons in your README -->
 
+
+<!--
 <a href="https://www.facebook.com/sannidhya.kushwaha/100004982791671" target="_blank"> ![facebook](https://user-images.githubusercontent.com/73152930/100048684-69541b80-2e3b-11eb-85c2-2bf476190f67.png)
     </a>
   
@@ -36,3 +38,5 @@
   
  <a href="https://https://www.linkedin.com/in/sannidhya-kushwaha" target="_blank">![linkedin](https://user-images.githubusercontent.com/73152930/100047603-dca85e00-2e38-11eb-959a-69da505c532f.png)
   </a>
+  
+  -->
