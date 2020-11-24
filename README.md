@@ -15,8 +15,8 @@
 
 ##### Gist About me
 
-- 🎤 I am a passonate Product designer and Frontend developer
-- 🛸 Learning everyday, currently learning to master GraphQL, React, TS etc ...
+- 🎤 I am a passonate Web & App developer.
+- 🛸 Learning everyday, currently learning to MERN stack, Dart etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 
 <img src="https://github-readme-stats.vercel.app/api?username=sannidhya-kushwaha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
