@@ -7,7 +7,7 @@
 [![HitCount](http://hits.dwyl.com/sannidhya-kushwaha/sannidhya-kushwaha.svg)](http://hits.dwyl.com/sannidhya-kushwaha/sannidhya-kushwaha)
 
 - 🔭 I’m currently working on Apps
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Dart, MERN stack & Hacking
 - 👯 I’m looking to collaborate on Web & App Projects
 - 💬 Ask me anything about Flutter
 
