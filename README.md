@@ -16,7 +16,7 @@
 - 🛸 Learning everyday, currently learning MERN stack, Dart etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 
-### My Skills
+### My Skills :construction_worker:
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
 
