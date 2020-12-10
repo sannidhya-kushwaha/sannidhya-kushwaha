@@ -16,6 +16,10 @@
 - 🛸 Learning everyday, currently learning MERN stack, Dart etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 
+### My Skills
+
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
+
 ### My Github Stats :fire:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sannidhya-kushwaha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
