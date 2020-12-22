@@ -1,7 +1,7 @@
 ### Hi, I'm Sannidhya Kushwaha! 👋
 
 
-[](https://visitor-badge.glitch.me/badge?page_id=sannidhya-kushwaha.sannidhya-kushwaha&style=flat-square&color=0088cc)
+![](https://visitor-badge.glitch.me/badge?page_id=sannidhya-kushwaha.sannidhya-kushwaha&style=flat-square&color=0088cc)
 
 - 🔭 I’m currently working on Apps
 - 🌱 I’m currently learning Dart, MERN stack & Hacking
