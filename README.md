@@ -23,6 +23,8 @@
 ### My Github Stats :fire:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sannidhya-kushwaha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src ="https://gitwar.herokuapp.com/badge?username=sannidhya-kushwaha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannidhya-kushwaha&layout=compact" height="185">
 
 
