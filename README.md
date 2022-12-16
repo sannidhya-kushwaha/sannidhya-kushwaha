@@ -19,11 +19,13 @@
 ### My Skills :construction_worker:
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/dusk/54/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/plasticine/50/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
+<img src="https://img.icons8.com/color/512/amazon-web-services.png" width="50"/>
+
 
 ### My Github Stats :fire:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sannidhya-kushwaha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<img src ="https://gitwar.herokuapp.com/badge?username=sannidhya-kushwaha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc">
+<!-- <img src ="https://gitwar.herokuapp.com/badge?username=sannidhya-kushwaha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc"> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannidhya-kushwaha&layout=compact" height="185">
 
